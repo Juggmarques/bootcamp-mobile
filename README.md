@@ -5,3 +5,8 @@ Atividades do Bootcamp Mobile do Santander
 
 [Markdown] (https://www.markdownguide.org/basic-syntax/)
 
+git status
+git add .
+git commit -m "mensagem qualquer"
+git push
+
